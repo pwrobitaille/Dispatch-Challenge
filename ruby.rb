@@ -13,5 +13,4 @@ results = response.parsed_response["results"]
 puts "20 Restaurants near #{user_address}"
 results.each do |result|
   puts result["name"]
-  
 end
