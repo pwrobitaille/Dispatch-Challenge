@@ -1,6 +1,6 @@
 # Dispatch-Challenge
 
-Goal of this challenge was to create a command-line tool or script in Python that does the following:
+Goal of this challenge was to create a command-line tool or script in Ruby that does the following:
 
 * Takes a home or building address as input
 * Retrieves information about that address from at least three different APIs
